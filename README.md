@@ -1,23 +1,25 @@
 # chemical_toxicity_prediction_challenge
 
-System setup and Requirement - 
+How to run the file - 
+There are three ways to execute the toxicity_prediction_challenge.ipynb file.
 
-Programming-Language: Python
+- Locally : The data and code can be downloaded from this github repository and run on a local IDE or Jupyter Notebook.
+  System setup and Requirement - 
 
-Python package requirements:
-(Following packages can be installed using "pip", for e.g., "pip install pandas")
-pandas
-numpy
-scikit-learn
-statistics
-xgboost
+  Programming-Language: Python
 
-Steps to run the file - 
+  Python package requirements:
+  (Following packages can be installed using "pip", for e.g., "pip install pandas")
+  pandas
+  numpy
+  scikit-learn
+  statistics
+  xgboost
 
-The data and code can be downloaded from this github reporsitory 
+- The file also has a google colab link and can be executed on google colab. 
 
-The https://github.com/Kushal-55/chemical_toxicity_prediction_challenge/blob/main/toxicity_prediction_challenge.ipynb file can be downloaded locally and run.
+- The third option to run the file is to downloaded the files, upload them to google Colab and run them
 
-The file also has a google colab link and can be executed on google colab.
+##What if the file does not run?
 
-The third option to run the file is to downloaded the files, upload them to google Colab and run them
+One can change the train and test file location to run the file successfully.
