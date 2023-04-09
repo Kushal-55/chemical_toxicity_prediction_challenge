@@ -20,6 +20,6 @@ There are three ways to execute the toxicity_prediction_challenge.ipynb file.
 
 - The third option to run the file is to downloaded the files, upload them to google Colab and run them
 
-##What if the file does not run?
+## What if the file does not run?
 
 One can change the train and test file location to run the file successfully.
